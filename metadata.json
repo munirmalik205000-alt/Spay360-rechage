@@ -1,0 +1,8 @@
+{
+  "name": "QuickCharge Pro",
+  "description": "A comprehensive recharge and wallet management dashboard with AI-powered plan recommendations and transaction analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
